@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pong</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="selector_positive">I LOVE THIS</string>
+    <string name="selector_suggestion">I HAD THIS IDEA</string>
+    <string name="selector_problem">I HAVE A PROBLEM</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
